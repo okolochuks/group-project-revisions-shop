@@ -84,3 +84,9 @@ html {
 	font-size: 12px;
 	text-align: center;
 }
+
+a.button {
+border: soli;
+border-color: black;
+border-width: 1px;
+}
